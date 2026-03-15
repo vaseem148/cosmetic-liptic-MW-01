@@ -1,0 +1,57 @@
+{
+  "name": "create-mern-boilerkit",
+  "version": "1.0.4",
+  "description": "A modern CLI tool to generate a production-ready MERN boilerplate with React, Express, MongoDB, JWT authentication, and a clean Vite frontend.",
+  "main": "bin/index.js",
+  "bin": {
+    "create-mern-boilerkit": "./bin/index.js"
+  },
+  "keywords": [
+    "mern",
+    "mern-stack",
+    "mern-boiler",
+    "mern-boilerplate",
+    "mern-template",
+    "mern-starter",
+    "mern-cli",
+    "mern-generator",
+    "mern-app",
+    "react",
+    "reactjs",
+    "express",
+    "expressjs",
+    "mongodb",
+    "nodejs",
+    "node",
+    "backend",
+    "frontend",
+    "fullstack",
+    "cli",
+    "cli-tool",
+    "project-generator",
+    "npx",
+    "scaffolding",
+    "starter-kit",
+    "template-generator",
+    "jwt-auth",
+    "vite"
+  ],
+  "author": "Lokendra Rajpurohit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lokendra0001/mern-boiler-template.git"
+  },
+  "homepage": "https://github.com/Lokendra0001/mern-boiler-template#readme",
+  "bugs": {
+    "url": "https://github.com/Lokendra0001/mern-boiler-template/issues"
+  },
+  "private": false,
+  "files": [
+    "bin",
+    "server",
+    "client",
+    "README.md",
+    "package.json"
+  ]
+}
