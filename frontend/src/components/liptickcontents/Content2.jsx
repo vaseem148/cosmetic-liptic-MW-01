@@ -39,7 +39,7 @@ const BrandIdentity = () => {
   };
 
   return (
-    <section className="bg-[#fdf9f6] py-24 px-4 md:px-10 overflow-hidden">
+    <section id="about" className="bg-[#fdf9f6] py-24 px-4 md:px-10 overflow-hidden">
       {/* --- Header --- */}
       <div className="max-w-7xl mx-auto mb-20">
         <motion.p 

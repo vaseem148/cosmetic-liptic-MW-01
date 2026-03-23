@@ -6,10 +6,10 @@ const Footer = () => {
 
   const footerLinks = {
     shop: [
-      { name: 'All Lipsticks', href: '#' },
-      { name: 'Matte Collection', href: '#' },
-      { name: 'Glossy Shades', href: '#' },
-      { name: 'Best Sellers', href: '#' },
+      { name: 'All Lipsticks', href: '#collection' },
+      { name: 'Matte Collection', href: '#shades' },
+      { name: 'Glossy Shades', href: '#signature' },
+      { name: 'Best Sellers', href: '#bestsellers' },
     ],
     support: [
       { name: 'Shipping Policy', href: '#' },
@@ -18,7 +18,7 @@ const Footer = () => {
       { name: 'Track Order', href: '#' },
     ],
     company: [
-      { name: 'Our Story', href: '#' },
+      { name: 'Our Story', href: '#story' },
       { name: 'Beauty Blog', href: '#' },
       { name: 'Careers', href: '#' },
       { name: 'Privacy Policy', href: '#' },
